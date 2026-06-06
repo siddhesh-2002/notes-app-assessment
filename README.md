@@ -1,4 +1,4 @@
-# NoteVault — React Note Management System
+# Note Management App
 
 A modern, production-quality note management app built with React 18 + Vite.
 
